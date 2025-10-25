@@ -83,5 +83,6 @@ https://github.com/ramshajaved11012/Data-Analysis-Projects/tree/main/Screenshots
 ---
 
 # 🏅 Certificates
-[Professional Certificate in Data Analytics & Generative AI] –IIT Kanpur
+-[Professional Certificate in Data Analytics & Generative AI] –IIT Kanpur
+https://github.com/ramshajaved11012/Data-Analysis-Projects/tree/main/Certificate
 
