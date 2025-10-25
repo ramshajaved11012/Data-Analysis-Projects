@@ -10,7 +10,7 @@ This project focuses on detecting fraudulent credit card transactions using **Py
 - Fraud trend visualization
 - Outlier detection
 
-![Open In Colab](https://colabcel Reports
+![Open In Colab](https://colab.research.google.com/drive/1TY4OZifrZxbxO6IHKqs7dLSWWa0cftHo?usp=sharing) Reports
 - Statistical summaries
 - Pivot tables for fraud by category and gender
 - Top states by transaction volume
@@ -25,8 +25,7 @@ This project focuses on detecting fraudulent credit card transactions using **Py
 📂 View Tableau Dashboard
 ---
 ## 📊 Screenshots
-![ashboard
-!Correlation Heatmap
+Dashboard Correlation Heatmap
 ---
 ## 🛠 Technologies Used
 - Python (Pandas, Matplotlib, Seaborn)
