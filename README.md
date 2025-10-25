@@ -71,7 +71,7 @@ https://github.com/ramshajaved11012/Data-Analysis-Projects/tree/main/Screenshots
 ## 🚀 How to Use
 1. Open the Python notebook in Google Colab using the badge above.
 2. Download the Excel file and open in MS Excel.
-3. Open the Tableau dashboard using Tableau Desktop.
+3. Open the Tableau Screenshot.
 4. Run SQL scripts in any SQL environment.
 
 ---
@@ -79,3 +79,9 @@ https://github.com/ramshajaved11012/Data-Analysis-Projects/tree/main/Screenshots
 ## 🔗 Project Link
 [View on GitHub]
 (https://github.com/ramshajaved11012/Data-Analysis-Projects)
+
+---
+
+# 🏅 Certificates
+[Professional Certificate in Data Analytics & Generative AI] –IIT Kanpur
+
