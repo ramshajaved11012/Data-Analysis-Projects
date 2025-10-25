@@ -1,3 +1,4 @@
+
 # Financial Fraud Detection Project
 
 ## 📌 Overview
@@ -13,7 +14,13 @@ This project focuses on detecting fraudulent credit card transactions using **Py
 - Fraud trend visualization
 - Outlier detection
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-b
+[Open In Colab
+
+📂 View Python Notebook
+
+---
+
+### 2. Excel Reports
 - Statistical summaries
 - Pivot tables for fraud by category and gender
 - Top states by transaction volume
@@ -52,4 +59,4 @@ This project focuses on detecting fraudulent credit card transactions using **Py
 ---
 
 ## 🔗 Project Link
-View on GitHub
+[View on GitHub](https://github.com/ramshajaved11012/Financial-Fraud-
